@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "foodprice-forecasting",
+  "private_key_id": "4614768261db52368ad2048e5310ee023bda5190",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6lO5YXit6pWqm\ncmukeTGpwM73mKkapeb1Vg4XfTDp7hddsiS/2+YwGsPo1IQFS9sSMjwzaAkxN7W7\nQMSKNuE4D8xr4pm9gBPwgxsqTnIQ+hEi4NkhNIk/oxP2EJEb8QycKoXI5aEcq8z4\n+QuLwIVDFl0+c6KMBg/vDeutG44y/X3tNjrnL8huHCzkBM9X8fnmfNiv7wqksC3r\n/EVgi1Lysx+BiWeXv+GE5eq/Y7t0aQGfIyGb2BoC1eT8E34VCEbEGomN0hg4QjsX\na7Ma0KkwJAqhKI82jfSjiRdhyfZWn3RMkjB8GFExC3wNGQmt8uCpX20wrg/SrLCO\nynbmDZ+xAgMBAAECggEAAq/rLFzj16r6+Z13gSmJLnKTUIPTeKmnxUQJZSt1iUL3\ndW8fwh8gxjPWezuXUKu2YqFUVmGy0zGEFaexxPNUJE5u8WVUtULbVqkOurnhQO8X\nENdn7SdgbCkVPCOiMWKz/apLnbh37O2pALN2h/tcd/pCGsiH0Gg0ccsTqD03u7J+\nYoteaC0eeaLtAMyFdKKEjGURxgBiDUdZ8C1uGtk78O4nNUESnOl9vOxcy/LVdaSl\n2gMzl9REb+F0OqgoioVNyZ5ezlQrJ3De6sX52eE2Rhw4XK7JeASAiJH+UZCAIhAO\nJKxriwMaWoMyXKtNMKrkors6tLUGGH7fRSgpRDYoAQKBgQDbuODKfiCUMiIVB5G/\nQQGfmrYuJPOskQIslkRB3intGW5thXNA9DLpDjMHd34ODTARdWFrg+Kg2c6LBoWD\n2Hiyp3gw2we57SB6EZhV0VuHvDRYWzHUrCQjiJDWx8zr7u2G4oYSxr9Dxy+IZ2f3\nmDaR1ieS+dW3n6FnIEketgaEAQKBgQDZY0nBfmCQR2Unf0coUlgC/HIId+LXXwEK\nyTGL5HiTm1YVcl1zXXIC08TDQpKsoTNygn/x9SUI1YWTXEbUYum+gujz2fSDn+p/\nPwPHGlDHdIxVtgo3L7s0HaQItsl9HW5E9P9pXSk31BjOshbz63haLsIorrsbIpwm\nMuOMOqBbsQKBgQCvY+K8gPXMlkAyfTpQarm7B6qJJyIEDDSqFsEhuw/IndZSQoZ/\nwO6qrpT5Tt8mpExMg2BijIJpV7PRskD9v9yI77m3df+y4KBeEJGDX30q2ocGSLV8\nSHUIkEjdydvAMZcVZtkTP+cJWYSN481QDQbyXvp0Dk4VJ62VPmZfx3loAQKBgQDP\n3w2MJRiZXmvv1NlqSTM3x8YTKvCTGZmZgsIKDzLtksBCSdXqlxSKd43TWTmAMbVM\nblWCPPRo+iR8wORJ+zugnPW9GFGj+6r0eoFWRmewElaPLz+dfdr4/s74NjF9nkLv\nVYdWbWsYo4wFOm6QWD4BnmyzEkKAtBu0uzyzvuvQQQKBgAoJ5/D+sLZvKm1DJyKV\nEa1Gz1bGpirQWxyPGSSmeri8zgvrTIZBuwe/GGFhnbcO5Nfbm9PZhsoIDnyS7Qmg\njRGSwO6rZBgstttNmUmhynL/IBm09lsKvPzKRKgXya14dfj9QHatpWLR5MgOLhlD\n8FvAm5AzVD6cJw66Evt1wpvp\n-----END PRIVATE KEY-----\n",
+  "client_email": "340683053533-compute@developer.gserviceaccount.com",
+  "client_id": "115833539608822849740",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/340683053533-compute%40developer.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
